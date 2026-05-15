@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Efeito de digitação com cursor piscando — funciona de verdade no GitHub -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+em+Formação;Estudante+de+ADS;Ex-Top+Sales+→+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+de+Sistemas;Estudante+de+ADS;Ex-Top+Sales+→+Tech)](https://git.io/typing-svg)
 
 **ADS Student · Dev em Formação · Ex-Top Sales → Tech**
 
