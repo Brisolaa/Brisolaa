@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Efeito de digitação com cursor piscando — funciona de verdade no GitHub -->
+<!-- Efeito de digitação com cursor piscando — -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+de+Sistemas;Estudante+de+ADS;Ex-Top+Sales+→+Tech)](https://git.io/typing-svg)
 
-**ADS Student · Dev em Formação · Ex-Top Sales → Tech**
+**Backend Developer · Desenvolvedor BackEnd · Ex-Top Sales → Tech**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
-![Manaus · BR](https://img.shields.io/badge/📍_Manaus-BR-1D9E75?style=flat-square)
+
 
 </div>
 
@@ -23,7 +23,6 @@ class Felipe:
     foco       = ["C", "Python", "Engenharia de Software"]
     próximos   = ["SQL", "POO", "Flask / Django"]
     background = "10 anos top sales → dev em formação"
-    loc        = "Manaus, BR"
 ```
 
 Transição de carreira depois de **10 anos como top performer em vendas** — Tommy Hilfiger, Lacoste (1º lugar por meses consecutivos em Curitiba), Reebok (Top 1 de vendas no Natal) e Vans (promovido para Visual Merchandising).
