@@ -29,7 +29,7 @@ class Felipe:
     background = "10 anos top sales → Backend Developer"
 ```
 
-Transição de carreira depois de **10 anos como top performer em vendas** — Tommy Hilfiger, Lacoste (1º lugar por meses consecutivos em Curitiba), Reebok (Top 1 de vendas no Natal) e Vans (Referência em vendas Online e Visual Merchandising).
+Transição de carreira depois de **10 anos como top performer em vendas** — Tommy Hilfiger, Lacoste (1º lugar por meses consecutivos em Curitiba), Reebok e Vans (Referência em vendas Online e Visual Merchandising).
 
 Hoje aplico a mesma mentalidade e atenção orientada a resultado para construir software. Foco em **Python e C**, documentando o progresso e mantendo projetos reais em paralelo com os estudos.
 
