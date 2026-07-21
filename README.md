@@ -3,7 +3,7 @@
 <!-- Efeito de digitação com cursor piscando — -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+de+Sistemas;Backend+Developer;Ex-Top+Sales+→+Tech)](https://git.io/typing-svg)
 
-**Backend Developer · Desenvolvedor BackEnd · Ex-Top Sales → Tech ·Spec-Driven & AI-Assisted Development**
+**Backend Developer · Desenvolvedor BackEnd · Ex-Top Sales → Tech**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
