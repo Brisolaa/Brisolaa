@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Efeito de digitação com cursor piscando -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+de+Sistemas;Backend+Developer;Ex-Top+Sales+%E2%86%92+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Felipe+Brisola;Desenvolvedor+de+Sistemas;System+Developer;Ex-Top+Sales+%E2%86%92+Tech)](https://git.io/typing-svg)
 
-**Backend Developer · Fullstack Developer · Spec-Driven & AI-Assisted Development · Ex-Top Sales → Tech**
+**System Developer · Fullstack Developer · Spec-Driven & AI-Assisted Development · Ex-Top Sales → Tech**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipebrisola/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brisola.dev@gmail.com)
@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Brisolaa)
 
 </div>
 
@@ -22,12 +22,12 @@ class Felipe:
     course = "Systems Analysis and Development"
     focus = ["Python", "C", "Software Engineering"]
     next = ["SQL", "OOP", "Flask / Django"]
-    background = "10 years top sales → Backend Developer"
+    background = "10 years top sales → System Developer"
     ---
     curso      = "Análise e Desenvolvimento de Sistemas"
     foco       = ["Python", "C", "Engenharia de Software"]
     próximos   = ["SQL", "POO", "Flask / Django"]
-    background = "10 anos top sales → Backend Developer"
+    background = "10 anos top sales → Desenvolvedor de Sistemas"
 ```
 
 <p align="center">
@@ -55,7 +55,7 @@ Antes de escrever código, escrevo a especificação: requisitos funcionais, nã
 
 **Sistema PDV Empório** *(link do repositório em breve)* — sistema de ponto de venda completo, do levantamento de requisitos à operação em produção real.
 
-- 16 requisitos funcionais + 5 não funcionais + 5 regras de negócio, todos rastreados até o teste
+- 16 requisitos funcionais + 4 não funcionais + 5 regras de negócio, todos rastreados até o teste
 - API REST com 22 endpoints (Python/Flask + SQLite)
 - 72 testes automatizados, 0 falhas
 - Em uso ativo por um cliente real desde julho de 2026
@@ -74,7 +74,7 @@ Antes de escrever código, escrevo a especificação: requisitos funcionais, nã
 
 ### 📫 Contato
 
-Aberto a oportunidades de **Backend**, **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
+Aberto a oportunidades de **Freelancer**, **Backend**, **Frontend**,  **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
@@ -101,7 +101,7 @@ Before writing code, I write the specification: functional requirements, non-fun
 
 **PDV Empório System** *(repository link coming soon)* — a full point-of-sale system, from requirements gathering to real production use.
 
-- 16 functional + 5 non-functional requirements + 5 business rules, all traced to tests
+- 16 functional + 4 non-functional requirements + 5 business rules, all traced to tests
 - REST API with 22 endpoints (Python/Flask + SQLite)
 - 72 automated tests, 0 failures
 - Actively used by a real client since July 2026
@@ -113,7 +113,7 @@ Same stack as above — Python, Flask, SQLite, SQL, C, Git, JavaScript.
 
 ### 📫 Contact
 
-Open to **Backend**, **Fullstack**, and **Entry-Level/Junior** opportunities. Let's connect:
+Open to **Freelancer**, **Backend**, **Frontend**,  **Fullstack** and **Entry-Level/Junior** opportunities. Let's connect:
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
