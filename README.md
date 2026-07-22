@@ -74,7 +74,11 @@ Antes de escrever código, escrevo a especificação: requisitos funcionais, nã
 
 ### 📫 Contato
 
+<<<<<<< HEAD
 Aberto a oportunidades de **Freelancer**, **Backend**, **Frontend**, **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
+=======
+Aberto a oportunidades de **Freelancer**, **Backend**, **Frontend**,  **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
+>>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
@@ -113,7 +117,11 @@ Same stack as above — Python, Flask, SQLite, SQL, C, Git, JavaScript.
 
 ### 📫 Contact
 
+<<<<<<< HEAD
 Open to **Freelancer**, **Backend**, **Frontend**, **Fullstack** and **Entry-Level/Junior** opportunities. Let's connect:
+=======
+Open to **Freelancer**, **Backend**, **Frontend**,  **Fullstack** and **Entry-Level/Junior** opportunities. Let's connect:
+>>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
@@ -124,10 +132,16 @@ Open to **Freelancer**, **Backend**, **Frontend**, **Fullstack** and **Entry-Lev
 
 ### 📊 GitHub Stats
 
+<<<<<<< HEAD
 <img src="https://github-readme-stats2-three-iota.vercel.app/api?username=Brisolaa&show_icons=true&theme=radical&hide_border=true" height="165"/>
 <img src="https://github-readme-stats2-three-iota.vercel.app/api/top-langs/?username=Brisolaa&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 *(instância própria, hospedada no seu Vercel — sem o limite de requisições da instância pública compartilhada)*
+=======
+<img src="https://github-readme-stats.vercel.app/api?username=Brisolaa&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brisolaa&layout=compact&theme=radical&hide_border=true" height="165"/>
+
+>>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 </div>
 
