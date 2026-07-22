@@ -53,7 +53,10 @@ Antes de escrever código, escrevo a especificação: requisitos funcionais, nã
 
 ### 🚀 Projeto em destaque
 
-**Sistema PDV Empório** *(link do repositório em breve)* — sistema de ponto de venda completo, do levantamento de requisitos à operação em produção real.
+**[Sistema PDV Empório](https://github.com/Brisolaa/pdv-demo)** — sistema de ponto de venda completo, do levantamento de requisitos à operação em produção real.
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Brisolaa/pdv-demo)
+[![Demo ao vivo](https://img.shields.io/badge/🔴_Demo_ao_vivo-pdv--demo.onrender.com-7c3aed?style=flat-square)](https://pdv-demo.onrender.com)
 
 - 16 requisitos funcionais + 4 não funcionais + 5 regras de negócio, todos rastreados até o teste
 - API REST com 22 endpoints (Python/Flask + SQLite)
@@ -74,11 +77,7 @@ Antes de escrever código, escrevo a especificação: requisitos funcionais, nã
 
 ### 📫 Contato
 
-<<<<<<< HEAD
 Aberto a oportunidades de **Freelancer**, **Backend**, **Frontend**, **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
-=======
-Aberto a oportunidades de **Freelancer**, **Backend**, **Frontend**,  **Fullstack** e **Estágio/Júnior** em desenvolvimento. Vamos conversar:
->>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
@@ -103,7 +102,10 @@ Before writing code, I write the specification: functional requirements, non-fun
 
 ### 🚀 Featured project
 
-**PDV Empório System** *(repository link coming soon)* — a full point-of-sale system, from requirements gathering to real production use.
+**[PDV Empório System](https://github.com/Brisolaa/pdv-demo)** — a full point-of-sale system, from requirements gathering to real production use.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Brisolaa/pdv-demo)
+[![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-pdv--demo.onrender.com-7c3aed?style=flat-square)](https://pdv-demo.onrender.com)
 
 - 16 functional + 4 non-functional requirements + 5 business rules, all traced to tests
 - REST API with 22 endpoints (Python/Flask + SQLite)
@@ -117,11 +119,7 @@ Same stack as above — Python, Flask, SQLite, SQL, C, Git, JavaScript.
 
 ### 📫 Contact
 
-<<<<<<< HEAD
 Open to **Freelancer**, **Backend**, **Frontend**, **Fullstack** and **Entry-Level/Junior** opportunities. Let's connect:
-=======
-Open to **Freelancer**, **Backend**, **Frontend**,  **Fullstack** and **Entry-Level/Junior** opportunities. Let's connect:
->>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 - 💼 [LinkedIn](https://linkedin.com/in/felipebrisola/)
 - ✉️ brisola.dev@gmail.com
@@ -132,16 +130,10 @@ Open to **Freelancer**, **Backend**, **Frontend**,  **Fullstack** and **Entry-Le
 
 ### 📊 GitHub Stats
 
-<<<<<<< HEAD
 <img src="https://github-readme-stats2-three-iota.vercel.app/api?username=Brisolaa&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats2-three-iota.vercel.app/api/top-langs/?username=Brisolaa&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats2-three-iota.vercel.app/api/top-langs/?username=Brisolaa&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats" height="165"/>
 
 *(instância própria, hospedada no seu Vercel — sem o limite de requisições da instância pública compartilhada)*
-=======
-<img src="https://github-readme-stats.vercel.app/api?username=Brisolaa&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brisolaa&layout=compact&theme=radical&hide_border=true" height="165"/>
-
->>>>>>> 9b4042baceb8ed81e121453ce5978df29926cb42
 
 </div>
 
