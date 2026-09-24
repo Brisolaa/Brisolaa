@@ -18,16 +18,20 @@
 ---
 
 ```python
-class Felipe:
-    course = "Systems Analysis and Development"
-    focus = ["Python", "C", "Software Engineering"]
-    next = ["SQL", "OOP", "Flask / Django"]
-    background = "10 years top sales → System Developer"
+class FelipeBrisola:
+   role = "Fullstack Developer | Software Engineer"
+    stack = ["Python", "JavaScript", "React", "Flask", "SQL"]
+    interests = ["Software Engineering", "Automation", "AI"]
+    methodology = ["TDD", "Spec-Driven Development"]
+    background = "10 years in sales → Software Development"
+    mission = "Turning business needs into practical solutions"
     ---
-    curso      = "Análise e Desenvolvimento de Sistemas"
-    foco       = ["Python", "C", "Engenharia de Software"]
-    próximos   = ["SQL", "POO", "Flask / Django"]
-    background = "10 anos top sales → Desenvolvedor de Sistemas"
+    atuação = "Desenvolvedor Fullstack | Software Engineer"
+    stack = ["Python", "JavaScript", "React", "Flask", "SQL"]
+    interesses = ["Engenharia de Software", "Automação", "IA"]
+    metodologia = ["TDD", "Spec-Driven Development"]
+    experiência = "10 anos em vendas → Desenvolvimento de Software"
+    propósito = "Transformar necessidades de negócio em soluções práticas"
 ```
 
 <p align="center">
